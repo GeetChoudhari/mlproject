@@ -1,1 +1,1 @@
-## Creating a MAchine Learning Project 
+## Creating a Machine Learning Project 
